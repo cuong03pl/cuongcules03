@@ -121,7 +121,7 @@ html {
 
 #slider {
    padding-top: 50%;
-   background: url('/c.c/w3-band/assets/img/slider/slider1.jpg')  top center / cover no-repeat;
+   background: url('../img/slider/slider1.jpg')  top center / cover no-repeat;
    position: relative;
 }
 #slider .content-slider {
